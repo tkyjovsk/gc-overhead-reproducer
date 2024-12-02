@@ -1,5 +1,7 @@
 # gc-overhead-reproducer
 
+Based on [this StackOverflow post](https://stackoverflow.com/a/17235181).
+
 ## Compile
 
 ```
